@@ -2,7 +2,7 @@
 /* eslint import/no-dynamic-require: 0 */
 
 const rules = {
-  raw: require('./raw'),
+  // raw: require('./raw'),
   file: require('./file'),
   css: require('./css'),
   sass: require('./sass'),
